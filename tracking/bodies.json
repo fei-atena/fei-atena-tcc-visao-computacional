@@ -1,0 +1,40 @@
+{
+    "current_frame": {
+        "body": {
+            "is_tracked": true,
+            "timestamp": 1759335130067136101,
+            "body_list": [
+                {
+                    "id": 0,
+                    "confidence": 88.86349487304688,
+                    "local_orientation_euler_deg": {
+                        "ShoulderLeft": {
+                            "roll": -7.3058492589929624,
+                            "pitch": -21.441587580413053,
+                            "yaw": 82.26330907249043
+                        },
+                        "ElbowLeft": {
+                            "roll": 0.0,
+                            "pitch": -76.77833983841775,
+                            "yaw": 0.0
+                        },
+                        "ShoulderRight": {
+                            "roll": 3.0330898589123985,
+                            "pitch": 14.770461237061722,
+                            "yaw": -44.488240244635286
+                        },
+                        "ElbowRight": {
+                            "roll": 0.0,
+                            "pitch": 64.05648314643031,
+                            "yaw": 0.0
+                        }
+                    }
+                }
+            ]
+        },
+        "hands": {
+            "left_hand_open": false,
+            "right_hand_open": false
+        }
+    }
+}
